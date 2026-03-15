@@ -1,5 +1,6 @@
 class Transport {
 
+
   String nomi;
   Transport(this.nomi);
   void harakatlanish() {
