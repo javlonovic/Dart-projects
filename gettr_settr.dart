@@ -27,4 +27,3 @@ void main() {
 
   // person.name = "";  // Xato: ArgumentError
 }
-
