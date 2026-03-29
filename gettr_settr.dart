@@ -1,4 +1,3 @@
-
 class Person {
   String _name;  // Private atribut
 
